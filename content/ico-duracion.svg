@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_2" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 120 119">
+  <defs>
+    <style>
+      .cls-1 {
+        fill-rule: evenodd;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-1, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: url(#Degradado_sin_nombre_67);
+        filter: url(#drop-shadow-1);
+      }
+    </style>
+    <linearGradient id="Degradado_sin_nombre_67" data-name="Degradado sin nombre 67" x1="17.61" y1="49.89" x2="102.2" y2="49.89" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#69dfff"/>
+      <stop offset="1" stop-color="#b56fff"/>
+    </linearGradient>
+    <filter id="drop-shadow-1" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="9.27"/>
+      <feGaussianBlur result="blur" stdDeviation="5.56"/>
+      <feFlood flood-color="#1e85ff" flood-opacity=".4"/>
+      <feComposite in2="blur" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Capa_1-2" data-name="Capa 1">
+    <g>
+      <circle class="cls-2" cx="59.91" cy="49.89" r="42.29"/>
+      <g id="Icon">
+        <circle class="cls-3" cx="52.52" cy="52.58" r="1.81"/>
+        <circle class="cls-3" cx="52.52" cy="59.83" r="1.81"/>
+        <circle class="cls-3" cx="59.76" cy="52.58" r="1.81"/>
+        <circle class="cls-3" cx="59.76" cy="59.83" r="1.81"/>
+        <circle class="cls-3" cx="67" cy="52.58" r="1.81"/>
+        <circle class="cls-3" cx="67" cy="59.83" r="1.81"/>
+        <path class="cls-1" d="M40.3,63.45v-23.53c0-1.8.72-3.53,1.99-4.8,1.27-1.27,3-1.99,4.8-1.99h5.88v4.98c0,.75.61,1.36,1.36,1.36s1.36-.61,1.36-1.36v-4.98h11.77v4.98c0,.75.61,1.36,1.36,1.36s1.36-.61,1.36-1.36v-4.98h2.26c1.8,0,3.53.72,4.8,1.99,1.27,1.27,1.99,3,1.99,4.8v23.53c0,1.8-.72,3.53-1.99,4.8-1.27,1.27-3,1.99-4.8,1.99h-25.35c-1.8,0-3.53-.72-4.8-1.99-1.27-1.27-1.99-3-1.99-4.8ZM43.02,45.79v17.65c0,1.08.43,2.12,1.19,2.88.76.76,1.8,1.19,2.88,1.19h25.35c1.08,0,2.12-.43,2.88-1.19s1.19-1.8,1.19-2.88v-17.65h-33.49Z"/>
+        <path class="cls-1" d="M65.65,30.86c0-.75.61-1.36,1.36-1.36s1.36.61,1.36,1.36v7.24c0,.75-.61,1.36-1.36,1.36s-1.36-.61-1.36-1.36v-7.24Z"/>
+        <path class="cls-1" d="M51.16,30.86c0-.75.61-1.36,1.36-1.36s1.36.61,1.36,1.36v7.24c0,.75-.61,1.36-1.36,1.36s-1.36-.61-1.36-1.36v-7.24Z"/>
+      </g>
+    </g>
+  </g>
+</svg>
