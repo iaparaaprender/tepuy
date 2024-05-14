@@ -149,7 +149,7 @@ tepuy jQuery plugins
 
                 switch (type) {
                     case 'horizontal':
-                        var $box_label = $('<div class="results_value"><label>0</label><br />%</div>');
+                        var $box_label = $('<div class="results_value"><label>0</label>%</div>');
                         var $label = $box_label.find('label');
                         var $box_bar = $('<div class="results_level"><div></div></div>');
                         var $bar = $box_bar.find('div');
@@ -162,7 +162,7 @@ tepuy jQuery plugins
                         };
                         break;
                     case 'vertical':
-                        var $box_label = $('<div class="results_value"><label>0</label><br />%</div>');
+                        var $box_label = $('<div class="results_value"><label>0</label>%</div>');
                         var $label = $box_label.find('label');
                         var $box_bar = $('<div class="results_level"><div></div></div>');
                         var $bar = $box_bar.find('div');
